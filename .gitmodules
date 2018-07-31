@@ -1,0 +1,6 @@
+[submodule "MutationTimeR"]
+	path = MutationTimeR
+	url = https://github.com/gerstung-lab/MutationTimeR
+[submodule "PCAWG-11"]
+	path = PCAWG-11
+	url = https://github.com/gerstung-lab/PCAWG-11
