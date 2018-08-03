@@ -1,6 +1,9 @@
 [submodule "MutationTimeR"]
 	path = MutationTimeR
 	url = https://github.com/gerstung-lab/MutationTimeR
-[submodule "PCAWG-11"]
-	path = PCAWG-11
+[submodule "EBI"]
+	path = EBI
 	url = https://github.com/gerstung-lab/PCAWG-11
+[submodule "PCAWG11-Timing_and_Signatures"]
+	path = Crick
+	url = https://github.com/clemencyjolly/PCAWG11-Timing_and_Signatures.git
