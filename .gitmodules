@@ -7,3 +7,6 @@
 [submodule "PCAWG11-Timing_and_Signatures"]
 	path = Crick
 	url = https://github.com/clemencyjolly/PCAWG11-Timing_and_Signatures.git
+[submodule "PhylogicNDT"]
+	path = PhylogicNDT
+	url = https://github.com/broadinstitute/PhylogicNDT
