@@ -15,7 +15,7 @@ An R package to time copy number gains and point mutations.
 An archive of Rmarkdown analysis workflows. This archive also contains an html report
 with the code to generate Figures 1b,e-h, 2, 4, 5 & Extended Data Figure 3, 6, 8 and 9. Also contains code related to Extended Data Figure 2. 
 
-* PhylogicNDT
+* `PhylogicNDT`
 A Python package to, among others, perform evolutionary league model analysis related to Figure 3 & Extended Data Figure 2 and 4.
 
 * `Crick` 
