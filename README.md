@@ -13,13 +13,16 @@ An R package to time copy number gains and point mutations.
 
 * `EBI`
 An archive of Rmarkdown analysis workflows. This archive also contains an html report
-with the code to generate Figures 1b, 2c-f, 3a,g, 5a, 6 & Extended Data Figure 6. 
+with the code to generate Figures 1b,e-h, 2, 4, 5 & Extended Data Figure 3, 6, 8 and 9. Also contains code related to Extended Data Figure 2. 
+
+* PhylogicNDT
+A Python package to, among others, perform evolutionary league model analysis related to Figure 3 & Extended Data Figure 2 and 4.
 
 * `Crick` 
-A collection of R scripts for timing and signature analysis, Figure 5b, Extended Data Figure 5.
+A collection of R scripts for timing and signature analysis, related to Figure 1c,d, 4c,d & Extended Data Figure 2 and 7.
 
 ## Dependencies
-Please refer to the original repositories (links provided above) for the exact requirements and tun times.
+Please refer to the original repositories (links provided above) for the exact requirements and run times.
 
 ## Loading this repository
 Please check out this repository using
