@@ -12,8 +12,8 @@ At current the repository contains the following modules.
 An R package to time copy number gains and point mutations.
 
 * `EBI`
-An archive of Rmarkdown analysis workflows. This archive also contains an html report
-with the code to generate Figures 1b,e-h, 2, 4, 5 & Extended Data Figures 34, 37, 39 and 40. Also contains code related to Extended Data Figure 33. 
+This repository contains analysis code for Figures 1b,e-h, 2, 4, 5 & Extended Data Figures 3, 6, 8 and 9 and output underlying Extended Data Figure 2. The output of the code 
+is an `rmarkdown` html report, hosted at <https://gerstung-lab.github.io/PCAWG-11>.
 
 * `PhylogicNDT`
 A Python package to, among others, perform evolutionary league model analysis related to Figure 3 & Extended Data Figure 33 and 35.
