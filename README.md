@@ -1,6 +1,6 @@
 # Code accompanying The Evolutionary history of 2,658 cancers
 
-This repository contains software and analysis code used for the publication The Evolutionary history of 2,658 cancers, Nature (in press).
+This repository contains software and analysis code used for the publication <a href="https://www.nature.com/articles/s41586-019-1907-7">The Evolutionary history of 2,658 cancers, Nature</a>
 
 The repository is organised into multiple git submodules pointing to individual repositories and the version of code used for the analysis.
 It is recommended to check out the most recent version of each software tool for future analyses.
